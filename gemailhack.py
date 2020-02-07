@@ -9,7 +9,7 @@ from os import system
 
 def main():
    print '================================================='
-   print '               create by Y.H.T                 '
+   print ' \033[1;32;40m  create by Y.H.T                 '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
