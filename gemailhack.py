@@ -1,3 +1,6 @@
+import os
+os.system("clear")
+
 #!/usr/bin/python
 '''create by Y.H.T'''
 
